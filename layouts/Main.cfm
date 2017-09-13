@@ -1,5 +1,5 @@
 <!--- 
-Downloaded a BootStrap Free Template to update the website.
+Downloaded a Free BootStrap Template to update the website.
 from https://startbootstrap.com/template-overviews/small-business/
  --->
 <cfoutput>
