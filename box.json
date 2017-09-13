@@ -1,0 +1,12 @@
+{
+    "dependencies":{
+        "coldbox":"folder:C:\\ColdFusion2016\\cfusion\\wwwroot\\ColdFusion-TodoList\\coldbox\\"
+    },
+    "installPaths":{
+        "coldbox":"coldbox\\",
+        "testbox":"testbox"
+    },
+    "devDependencies":{
+        "testbox":"^2.5.0+107"
+    }
+}
