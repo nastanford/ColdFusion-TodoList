@@ -10,11 +10,13 @@
 			eventName 				= "event",
 
 			//Development Settings
-			reinitPassword			= "",
-			handlersIndexAutoReload = true,
+			reinitPassword				= "",
+			debugMode                	= false,
+            debugPassword            	= "",
+			handlersIndexAutoReload 	= true,
 
 			//Implicit Events
-			defaultEvent			= "",
+			defaultEvent			= "home.index",
 			requestStartHandler		= "Main.onRequestStart",
 			requestEndHandler		= "Main.onRequestEnd",
 			applicationStartHandler = "Main.onAppInit",
@@ -47,7 +49,7 @@
 
 		// custom settings
 		settings = {
-
+			
 		};
 
 		// environment settings, create a detectEnvironment() method to detect it yourself.
@@ -149,6 +151,8 @@
 	*/
 	function development(){
 		coldbox.customErrorTemplate = "/coldbox/system/includes/BugReport.cfm";
+		coldbox.debugMode = true;
+    	coldbox.debugPassword = "";
 	}
 
 }
