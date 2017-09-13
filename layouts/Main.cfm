@@ -1,3 +1,7 @@
+<!--- 
+Downloaded a BootStrap Free Template to update the website.
+from https://startbootstrap.com/template-overviews/small-business/
+ --->
 <cfoutput>
 	<base href="#event.getHTMLBaseURL()#" />
 <!DOCTYPE html>
