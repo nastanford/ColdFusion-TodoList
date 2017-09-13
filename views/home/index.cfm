@@ -1,3 +1,3 @@
 <cfoutput>
-<h1>home.index</h1>
+This is currently the Home Index Page.
 </cfoutput>
