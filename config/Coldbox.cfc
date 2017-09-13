@@ -143,6 +143,8 @@
 			blog_dsn = {name="myBlog", dbType="oracle", username="root", password="pass"}
 		};
 		*/
+		datasources = {
+			mysite   = {name="todolist", dbType="mysql"}		
 
 	}
 

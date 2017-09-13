@@ -10,8 +10,8 @@ from https://startbootstrap.com/template-overviews/small-business/
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="Simple ColdFusion To Do List.">
+    <meta name="author" content="Nathan Stanford Sr">
 
     <title>ColdFusion To Do List</title>
 
